@@ -1,0 +1,22 @@
+Priya Ramanathan, P-2
+
+First, choose all players- 2 or more
+Then start seperating the cards evenly by the number of players 
+To play UNO, each player has to match the card in the discard pile by number, color, or word.
+If a player places a wild card:
+  Then the player can change the color of play. For Example, if the discard pile was red, and a player throws down a wild card and says to change the color to blue 7 that means now players have to play with the cards which has the new color or number
+If a player pulls out a reverse card:
+  the order of the play is changed. which means the order goes the other way around so if you are playing in counterwise then it would change to counter clockwise
+If a player pulls out a Wild Draw 4 card:
+  the player gets to change the color like the wild cardbut also player next to him has to pick up four cards
+If you have one card left:
+  you must shout out UNO! and
+  If you don't call "Uno" and you get caught by another player:
+    you must pick up two cards from the draw pile and once a player has no cards left the game is over
+Points are scored and you start over again
+If you win the game:
+  you give yourself points according to the number and type of cards left in opponents' hands
+  Number cards: Face value 
+  Non-wild word cards: 20 points 
+  Wild cards: 50 points
+The first player to reach 500 points wins the game
